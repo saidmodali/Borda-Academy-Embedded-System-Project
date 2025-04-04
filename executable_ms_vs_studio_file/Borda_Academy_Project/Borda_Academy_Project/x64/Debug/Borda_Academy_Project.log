@@ -1,0 +1,8 @@
+﻿  calculations.c
+  circular_buffer.c
+  filter.c
+  i2c.c
+  main.c
+  Generating Code...
+C:\Users\said_\Desktop\Borda_academy_project\executable_ms_vs_studio_file\Borda_Academy_Project\Borda_Academy_Project\main.c(31,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Borda_Academy_Project.vcxproj -> C:\Users\said_\Desktop\Borda_academy_project\executable_ms_vs_studio_file\Borda_Academy_Project\x64\Debug\Borda_Academy_Project.exe
