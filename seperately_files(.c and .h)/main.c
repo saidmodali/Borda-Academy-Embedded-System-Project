@@ -1,5 +1,5 @@
 // This project was prepared as part of the Borda Academy Summer Internship & New Graduating Training Program. All rights reserved.
-// Author: Said Modalý
+// Author: Said Modali
 // Email: smodalim@gmail.com   
 
 
